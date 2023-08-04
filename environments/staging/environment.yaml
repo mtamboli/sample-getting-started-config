@@ -1,5 +1,4 @@
 version: 1.0
-app:
   instances: 1
   version: "20230804030338666"
   env:
